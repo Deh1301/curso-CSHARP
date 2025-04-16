@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+      <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+      <OutputPath>..\..\bin\$(Configuration)\$(AssemblyName)</OutputPath>
+      <IntermediateOutputPath>..\..\obj\$(Configuration)\$(AssemblyName)</IntermediateOutputPath>
+    </PropertyGroup>
+  </Project>
+  

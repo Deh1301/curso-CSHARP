@@ -1,0 +1,53 @@
+/media/andr/Novo volume/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+/media/andr/Novo volume/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.AssemblyInfoInputs.cache
+/media/andr/Novo volume/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.AssemblyInfo.cs
+/media/andr/Novo volume/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.csproj.CoreCompileInputs.cache
+/media/andr/Novo volume/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.sourcelink.json
+/media/andr/Novo volume/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.dll
+/media/andr/Novo volume/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/refint/orientacaoObjeto.dll
+/media/andr/Novo volume/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.pdb
+/home/andr/Documentos/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/bin/Debug/net9.0/orientacaoObjeto
+/home/andr/Documentos/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/bin/Debug/net9.0/orientacaoObjeto.deps.json
+/home/andr/Documentos/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/bin/Debug/net9.0/orientacaoObjeto.runtimeconfig.json
+/home/andr/Documentos/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/bin/Debug/net9.0/orientacaoObjeto.dll
+/home/andr/Documentos/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/bin/Debug/net9.0/orientacaoObjeto.pdb
+/home/andr/Documentos/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/andr/Documentos/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.AssemblyInfoInputs.cache
+/home/andr/Documentos/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.AssemblyInfo.cs
+/home/andr/Documentos/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.csproj.CoreCompileInputs.cache
+/home/andr/Documentos/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.sourcelink.json
+/home/andr/Documentos/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.dll
+/home/andr/Documentos/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/refint/orientacaoObjeto.dll
+/home/andr/Documentos/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.pdb
+/home/andr/Documentos/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.genruntimeconfig.cache
+/home/andr/Documentos/documentos do curso/curso c#/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/ref/orientacaoObjeto.dll
+/home/andr/Documentos/documentos do curso/curso_csharp/curso-CSharp/orientacaoObjeto/bin/Debug/net9.0/orientacaoObjeto
+/home/andr/Documentos/documentos do curso/curso_csharp/curso-CSharp/orientacaoObjeto/bin/Debug/net9.0/orientacaoObjeto.deps.json
+/home/andr/Documentos/documentos do curso/curso_csharp/curso-CSharp/orientacaoObjeto/bin/Debug/net9.0/orientacaoObjeto.runtimeconfig.json
+/home/andr/Documentos/documentos do curso/curso_csharp/curso-CSharp/orientacaoObjeto/bin/Debug/net9.0/orientacaoObjeto.dll
+/home/andr/Documentos/documentos do curso/curso_csharp/curso-CSharp/orientacaoObjeto/bin/Debug/net9.0/orientacaoObjeto.pdb
+/home/andr/Documentos/documentos do curso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/andr/Documentos/documentos do curso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.AssemblyInfoInputs.cache
+/home/andr/Documentos/documentos do curso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.AssemblyInfo.cs
+/home/andr/Documentos/documentos do curso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.csproj.CoreCompileInputs.cache
+/home/andr/Documentos/documentos do curso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.sourcelink.json
+/home/andr/Documentos/documentos do curso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.dll
+/home/andr/Documentos/documentos do curso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/refint/orientacaoObjeto.dll
+/home/andr/Documentos/documentos do curso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.pdb
+/home/andr/Documentos/documentos do curso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.genruntimeconfig.cache
+/home/andr/Documentos/documentos do curso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/ref/orientacaoObjeto.dll
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.AssemblyInfoInputs.cache
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.AssemblyInfo.cs
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.csproj.CoreCompileInputs.cache
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.sourcelink.json
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.dll
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/refint/orientacaoObjeto.dll
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.pdb
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/orientacaoObjeto/bin/Debug/net9.0/orientacaoObjeto
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/orientacaoObjeto/bin/Debug/net9.0/orientacaoObjeto.deps.json
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/orientacaoObjeto/bin/Debug/net9.0/orientacaoObjeto.runtimeconfig.json
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/orientacaoObjeto/bin/Debug/net9.0/orientacaoObjeto.dll
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/orientacaoObjeto/bin/Debug/net9.0/orientacaoObjeto.pdb
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/orientacaoObjeto.genruntimeconfig.cache
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/orientacaoObjeto/obj/Debug/net9.0/ref/orientacaoObjeto.dll

@@ -1,0 +1,45 @@
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.AssemblyInfoInputs.cache
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.AssemblyInfo.cs
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.csproj.CoreCompileInputs.cache
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.sourcelink.json
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\bin\net8.0\classes e metodos.exe
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\bin\net8.0\classes e metodos.deps.json
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\bin\net8.0\classes e metodos.runtimeconfig.json
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\bin\net8.0\classes e metodos.dll
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\bin\net8.0\classes e metodos.pdb
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.dll
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\refint\classes e metodos.dll
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.pdb
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.genruntimeconfig.cache
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\ref\classes e metodos.dll
+C:\Users\Andre\OneDrive\Documentos\C# curso\curso-CSharp\classesMetodos\bin\net8.0\classes e metodos.exe
+C:\Users\Andre\OneDrive\Documentos\C# curso\curso-CSharp\classesMetodos\bin\net8.0\classes e metodos.deps.json
+C:\Users\Andre\OneDrive\Documentos\C# curso\curso-CSharp\classesMetodos\bin\net8.0\classes e metodos.runtimeconfig.json
+C:\Users\Andre\OneDrive\Documentos\C# curso\curso-CSharp\classesMetodos\bin\net8.0\classes e metodos.dll
+C:\Users\Andre\OneDrive\Documentos\C# curso\curso-CSharp\classesMetodos\bin\net8.0\classes e metodos.pdb
+C:\Users\Andre\OneDrive\Documentos\C# curso\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Documentos\C# curso\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Documentos\C# curso\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Documentos\C# curso\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Documentos\C# curso\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.sourcelink.json
+C:\Users\Andre\OneDrive\Documentos\C# curso\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.dll
+C:\Users\Andre\OneDrive\Documentos\C# curso\curso-CSharp\classesMetodos\obj\Debug\net8.0\refint\classes e metodos.dll
+C:\Users\Andre\OneDrive\Documentos\C# curso\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.pdb
+C:\Users\Andre\OneDrive\Documentos\C# curso\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\Documentos\C# curso\curso-CSharp\classesMetodos\obj\Debug\net8.0\ref\classes e metodos.dll
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\bin\net8.0\classes e metodos.exe
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\bin\net8.0\classes e metodos.deps.json
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\bin\net8.0\classes e metodos.runtimeconfig.json
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\bin\net8.0\classes e metodos.dll
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\bin\net8.0\classes e metodos.pdb
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.sourcelink.json
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.dll
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\refint\classes e metodos.dll
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.pdb
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\classes e metodos.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\classesMetodos\obj\Debug\net8.0\ref\classes e metodos.dll

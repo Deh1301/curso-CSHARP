@@ -1,0 +1,5 @@
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\obj\Debug\net8.0\curso-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\obj\Debug\net8.0\curso-CSharp.AssemblyInfoInputs.cache
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\obj\Debug\net8.0\curso-CSharp.AssemblyInfo.cs
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\obj\Debug\net8.0\curso-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Calix\OneDrive\Documentos\cursoC#\curso-CSharp\obj\Debug\net8.0\curso-CSharp.sourcelink.json

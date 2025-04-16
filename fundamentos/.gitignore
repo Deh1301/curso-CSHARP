@@ -1,0 +1,11 @@
+# Ignorar pastas de build do .NET
+bin/
+obj/
+*.suo
+*.user
+*.dll
+*.exe
+*.pdb
+
+# Ignorar arquivos gerados pelo OneDrive
+*.lnk

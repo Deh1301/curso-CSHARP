@@ -1,0 +1,15 @@
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\revisao\var\obj\Debug\net9.0\var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\revisao\var\obj\Debug\net9.0\var.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\revisao\var\obj\Debug\net9.0\var.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\revisao\var\obj\Debug\net9.0\var.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\revisao\var\obj\Debug\net9.0\var.sourcelink.json
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\revisao\var\bin\Debug\net9.0\var.exe
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\revisao\var\bin\Debug\net9.0\var.deps.json
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\revisao\var\bin\Debug\net9.0\var.runtimeconfig.json
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\revisao\var\bin\Debug\net9.0\var.dll
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\revisao\var\bin\Debug\net9.0\var.pdb
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\revisao\var\obj\Debug\net9.0\var.dll
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\revisao\var\obj\Debug\net9.0\refint\var.dll
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\revisao\var\obj\Debug\net9.0\var.pdb
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\revisao\var\obj\Debug\net9.0\var.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\Documentos\cursoC#\curso-CSharp\revisao\var\obj\Debug\net9.0\ref\var.dll
