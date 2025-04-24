@@ -1,0 +1,15 @@
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/MetodosFuncao/obj/Debug/net9.0/MetodosFuncao.GeneratedMSBuildEditorConfig.editorconfig
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/MetodosFuncao/obj/Debug/net9.0/MetodosFuncao.AssemblyInfoInputs.cache
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/MetodosFuncao/obj/Debug/net9.0/MetodosFuncao.AssemblyInfo.cs
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/MetodosFuncao/obj/Debug/net9.0/MetodosFuncao.csproj.CoreCompileInputs.cache
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/MetodosFuncao/obj/Debug/net9.0/MetodosFuncao.sourcelink.json
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/MetodosFuncao/bin/Debug/net9.0/MetodosFuncao
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/MetodosFuncao/bin/Debug/net9.0/MetodosFuncao.deps.json
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/MetodosFuncao/bin/Debug/net9.0/MetodosFuncao.runtimeconfig.json
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/MetodosFuncao/bin/Debug/net9.0/MetodosFuncao.dll
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/MetodosFuncao/bin/Debug/net9.0/MetodosFuncao.pdb
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/MetodosFuncao/obj/Debug/net9.0/MetodosFuncao.dll
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/MetodosFuncao/obj/Debug/net9.0/refint/MetodosFuncao.dll
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/MetodosFuncao/obj/Debug/net9.0/MetodosFuncao.pdb
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/MetodosFuncao/obj/Debug/net9.0/MetodosFuncao.genruntimeconfig.cache
+/home/andr/Documentos/DocCurso/curso_csharp/curso-CSharp/MetodosFuncao/obj/Debug/net9.0/ref/MetodosFuncao.dll
