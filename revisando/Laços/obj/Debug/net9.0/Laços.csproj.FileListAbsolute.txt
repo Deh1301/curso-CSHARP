@@ -1,0 +1,15 @@
+D:\estudos\curso-CSHARP\revisando\Laços\bin\Debug\net9.0\Laços.exe
+D:\estudos\curso-CSHARP\revisando\Laços\bin\Debug\net9.0\Laços.deps.json
+D:\estudos\curso-CSHARP\revisando\Laços\bin\Debug\net9.0\Laços.runtimeconfig.json
+D:\estudos\curso-CSHARP\revisando\Laços\bin\Debug\net9.0\Laços.dll
+D:\estudos\curso-CSHARP\revisando\Laços\bin\Debug\net9.0\Laços.pdb
+D:\estudos\curso-CSHARP\revisando\Laços\obj\Debug\net9.0\Laços.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\curso-CSHARP\revisando\Laços\obj\Debug\net9.0\Laços.AssemblyInfoInputs.cache
+D:\estudos\curso-CSHARP\revisando\Laços\obj\Debug\net9.0\Laços.AssemblyInfo.cs
+D:\estudos\curso-CSHARP\revisando\Laços\obj\Debug\net9.0\Laços.csproj.CoreCompileInputs.cache
+D:\estudos\curso-CSHARP\revisando\Laços\obj\Debug\net9.0\Laços.sourcelink.json
+D:\estudos\curso-CSHARP\revisando\Laços\obj\Debug\net9.0\Laços.dll
+D:\estudos\curso-CSHARP\revisando\Laços\obj\Debug\net9.0\refint\Laços.dll
+D:\estudos\curso-CSHARP\revisando\Laços\obj\Debug\net9.0\Laços.pdb
+D:\estudos\curso-CSHARP\revisando\Laços\obj\Debug\net9.0\Laços.genruntimeconfig.cache
+D:\estudos\curso-CSHARP\revisando\Laços\obj\Debug\net9.0\ref\Laços.dll

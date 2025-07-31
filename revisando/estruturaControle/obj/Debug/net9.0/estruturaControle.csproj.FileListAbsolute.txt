@@ -1,0 +1,15 @@
+D:\estudos\curso-CSHARP\revisando\estruturaControle\obj\Debug\net9.0\estruturaControle.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\curso-CSHARP\revisando\estruturaControle\obj\Debug\net9.0\estruturaControle.AssemblyInfoInputs.cache
+D:\estudos\curso-CSHARP\revisando\estruturaControle\obj\Debug\net9.0\estruturaControle.AssemblyInfo.cs
+D:\estudos\curso-CSHARP\revisando\estruturaControle\obj\Debug\net9.0\estruturaControle.csproj.CoreCompileInputs.cache
+D:\estudos\curso-CSHARP\revisando\estruturaControle\obj\Debug\net9.0\estruturaControle.sourcelink.json
+D:\estudos\curso-CSHARP\revisando\estruturaControle\bin\Debug\net9.0\estruturaControle.exe
+D:\estudos\curso-CSHARP\revisando\estruturaControle\bin\Debug\net9.0\estruturaControle.deps.json
+D:\estudos\curso-CSHARP\revisando\estruturaControle\bin\Debug\net9.0\estruturaControle.runtimeconfig.json
+D:\estudos\curso-CSHARP\revisando\estruturaControle\bin\Debug\net9.0\estruturaControle.dll
+D:\estudos\curso-CSHARP\revisando\estruturaControle\bin\Debug\net9.0\estruturaControle.pdb
+D:\estudos\curso-CSHARP\revisando\estruturaControle\obj\Debug\net9.0\estruturaControle.dll
+D:\estudos\curso-CSHARP\revisando\estruturaControle\obj\Debug\net9.0\refint\estruturaControle.dll
+D:\estudos\curso-CSHARP\revisando\estruturaControle\obj\Debug\net9.0\estruturaControle.pdb
+D:\estudos\curso-CSHARP\revisando\estruturaControle\obj\Debug\net9.0\estruturaControle.genruntimeconfig.cache
+D:\estudos\curso-CSHARP\revisando\estruturaControle\obj\Debug\net9.0\ref\estruturaControle.dll

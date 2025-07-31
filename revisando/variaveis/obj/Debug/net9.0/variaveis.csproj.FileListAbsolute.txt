@@ -1,0 +1,15 @@
+D:\estudos\curso-CSHARP\revisando\variaveis\bin\Debug\net9.0\variaveis.exe
+D:\estudos\curso-CSHARP\revisando\variaveis\bin\Debug\net9.0\variaveis.deps.json
+D:\estudos\curso-CSHARP\revisando\variaveis\bin\Debug\net9.0\variaveis.runtimeconfig.json
+D:\estudos\curso-CSHARP\revisando\variaveis\bin\Debug\net9.0\variaveis.dll
+D:\estudos\curso-CSHARP\revisando\variaveis\bin\Debug\net9.0\variaveis.pdb
+D:\estudos\curso-CSHARP\revisando\variaveis\obj\Debug\net9.0\variaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\curso-CSHARP\revisando\variaveis\obj\Debug\net9.0\variaveis.AssemblyInfoInputs.cache
+D:\estudos\curso-CSHARP\revisando\variaveis\obj\Debug\net9.0\variaveis.AssemblyInfo.cs
+D:\estudos\curso-CSHARP\revisando\variaveis\obj\Debug\net9.0\variaveis.csproj.CoreCompileInputs.cache
+D:\estudos\curso-CSHARP\revisando\variaveis\obj\Debug\net9.0\variaveis.sourcelink.json
+D:\estudos\curso-CSHARP\revisando\variaveis\obj\Debug\net9.0\variaveis.dll
+D:\estudos\curso-CSHARP\revisando\variaveis\obj\Debug\net9.0\refint\variaveis.dll
+D:\estudos\curso-CSHARP\revisando\variaveis\obj\Debug\net9.0\variaveis.pdb
+D:\estudos\curso-CSHARP\revisando\variaveis\obj\Debug\net9.0\variaveis.genruntimeconfig.cache
+D:\estudos\curso-CSHARP\revisando\variaveis\obj\Debug\net9.0\ref\variaveis.dll
